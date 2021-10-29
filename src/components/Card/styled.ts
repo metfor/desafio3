@@ -13,7 +13,7 @@ box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
     }
 `
 export const CardColor=styled.div`
-    width: 320px;
+    width: 340px;
     height: 222px;
     background:${props=> props.color};
     @media(max-width:1120px){
