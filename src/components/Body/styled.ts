@@ -4,9 +4,10 @@ export const Container = styled.div`
   justify-content: space-between;
   margin-left: 100px;
   margin-right: 100px;
-  margin-top: 100px;
+  margin-top: 30px;
   @media (max-width: 1120px) {
     display: grid;
+    grid-row-gap: 30px;
     margin-left: 20px;
   }
 `;
