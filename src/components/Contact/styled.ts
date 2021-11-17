@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 export const ContainerContact = styled.div`
-  margin: 0;
+  margin-top:30px;
   width: 100%;
   height: 46.875rem;
   background: #d7d4ff;
