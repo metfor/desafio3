@@ -52,7 +52,7 @@ export const MyButton = styled.button`
   margin-left: 6.25rem;
   margin-top: 2.8125rem;
   color: white;
-  border:none;
+  border: none;
   @media (max-width: 1120px) {
     margin-left: 1.25rem;
     margin-top: 2rem;

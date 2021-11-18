@@ -1,6 +1,5 @@
 import { Card } from '../Card';
 import { Container } from './styled';
-
 export function Body() {
   return (
     <>
