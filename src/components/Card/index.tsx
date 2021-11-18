@@ -4,7 +4,6 @@ interface CardsProps {
   title: string;
   sub: string;
 }
-
 export function Card({ color, title, sub }: CardsProps) {
   return (
     <Cards color="red">

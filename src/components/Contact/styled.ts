@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 export const ContainerContact = styled.div`
-  margin-top:30px;
+  margin-top: 30px;
   width: 100%;
   height: 46.875rem;
   background: #d7d4ff;
@@ -16,7 +16,6 @@ export const MyH1 = styled.h1`
   font-size: 2rem;
   line-height: 2.5;
 `;
-
 export const FormContact = styled.form`
   display: grid;
   grid-template-columns: 7.5rem;
@@ -24,7 +23,6 @@ export const FormContact = styled.form`
   margin-left: -7.5rem;
   margin-top: -5rem;
 `;
-
 export const MyInput = styled.input`
   margin: 0px;
   background: #ffffff;
@@ -57,7 +55,7 @@ export const ButtonContact = styled.button`
   box-shadow: 0px 5px 5px rgba(23, 23, 23, 0.1);
   border-radius: 5px;
   color: white;
-  border:none;
+  border: none;
   @media (max-width: 1120px) {
     width: 16.4375rem;
     margin-left: 5.9375rem;
